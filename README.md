@@ -20,7 +20,7 @@
 ## Certificados
 - **Trilha Digital | Coders 24 | Data Science**. AdaTech.
 - **HPCC Systems Advanced ECL**. LexisNexis.
-- **BancosdeDados SQLeNoSQL**. Udemy.
+- **Bancos de Dados SQL e NoSQL**. Udemy.
 - **Programação em Python**. Udemy.
 
 ## Vamos nos conectar?!
