@@ -7,13 +7,14 @@
 - Meu objetivo profissional é combinar meu background em matemática com técnicas de programação para modelar e trabalhar com dados, a fim de gerar insights que orientem a tomada de decisões e solucionem problemas reais e complexos. 
   
 ## Educação
-- **Bacharelado em Ciência de Dados,** Universidade Virtual do Estado de São Paulo, Brasil, 2021 - 2025.
+- **Bacharelado em Ciência de Dados,** Universidade Virtual do Estado de São Paulo, Brasil, 2021 - 2026.
 - **Bacharelado em Matemática,** Universidade Federal de São Carlos, Brasil, 2017.
 
   
 ## Habilidades
 - **Linguagens de Programação** - Python e ECL.
-- **Gerenciamento de Banco de Dados** - SQL, PostgreSQL.
+- **Gerenciamento de Banco de Dados
+** - SQL, PostgreSQL.
 - **Ferramentas de Versionamento de Código** - Git, GitHub.
 - **Línguas** - Inglês (avançado).
 
